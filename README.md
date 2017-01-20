@@ -1,7 +1,7 @@
 # Rust-Translator
 "Rust Translator" : translate words with Rust ...
 #What is it ?
-This is a program built with Rust (The Mozilla programming langage) that let you translate words from any language to English , Arabic , French , German  using Yandex Translate API .
+This is a program built with Rust (The Mozilla programming language) that let you translate words from any language to English , Arabic , French , German  using Yandex Translate API .
 #How to use it 
 
 Execute : cargo run in your Terminal
