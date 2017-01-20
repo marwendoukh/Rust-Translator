@@ -1,0 +1,9 @@
+[package]
+name = "RustTranslator"
+version = "0.1.0"
+authors = ["Marwen Doukh - Mozilla Tunisia <marwen.doukh@gmail.com>"]
+
+[dependencies]
+hyper = "0.10.0"
+rustc-serialize = "0.3"
+hyper-native-tls = "0.2"
