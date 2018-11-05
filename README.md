@@ -7,4 +7,4 @@ This is a program built with Rust (The Mozilla programming language) that let yo
 Execute : cargo run in your Terminal
 
 
-I made a Tutorial for this project , you can find it [here] (https://marwendoukh.wordpress.com/2017/01/21/rust-translator-translate-words-with-rust/)    
+I made a Tutorial for this project , you can find it [here](https://marwendoukh.wordpress.com/2017/01/21/rust-translator-translate-words-with-rust/)    
